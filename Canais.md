@@ -8,15 +8,6 @@ http://inboxbrasil.lat:8080/live/jaireitv2023/23112023/5375869.m3u8
 #EXTINF:-1 tvg-id="BandSports.br" tvg-logo="https://img.nnl.pw/draco/band-sports.png" group-title="Esportes", Band Sports SD
 http://inboxbrasil.lat:8080/live/jaireitv2023/23112023/5375871.m3u8
 
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-logo="https://img.nnl.pw/draco/fish-tv.png" group-title="Esportes", Fish TV FHD
-http://inboxbrasil.lat:8080/live/jaireitv2023/23112023/631072.m3u8
-
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-logo="https://img.nnl.pw/draco/fish-tv.png" group-title="Esportes", Fish TV HD
-http://inboxbrasil.lat:8080/live/jaireitv2023/23112023/5376308.m3u8
-
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-logo="https://img.nnl.pw/draco/fish-tv.png" group-title="Esportes", Fish TV SD
-http://inboxbrasil.lat:8080/live/jaireitv2023/23112023/5376310.m3u8
-
 #EXTINF:-1 tvg-id="br#off-hd" tvg-logo="https://img.nnl.pw/draco/canal-off.png" group-title="Esportes", Off FHD
 http://inboxbrasil.lat:8080/live/jaireitv2023/23112023/5437042.m3u8
 
